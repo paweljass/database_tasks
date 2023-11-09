@@ -15,4 +15,4 @@ Example output for product with "P1" model name:
 tasks.py/create_promo_sets
 
 Also csv file after creating 2 promo sets (1 set = 1 line)
-<img width="712" alt="Zrzut ekranu 2023-11-9 o 13 37 06" src="https://github.com/paweljass/database_tasks/assets/94719472/e31e123a-4394-43d3-92ae-e22270bf996b">
+<img width="713" alt="Zrzut ekranu 2023-11-9 o 13 42 58" src="https://github.com/paweljass/database_tasks/assets/94719472/6f522d82-93b4-4afc-9561-0406bd1614b4">
